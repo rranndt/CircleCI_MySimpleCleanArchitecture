@@ -1,1 +1,1 @@
-[![arifaizin](https://circleci.com/gh/arifaizin/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/arifaizin/MySimpleCleanArchitecture)
+[![rizriana](https://circleci.com/gh/rizriana/CircleCI_MySimpleCleanArchitecture.svg?style=shield)](https://circleci.com/gh/rizriana/CircleCI_MySimpleCleanArchitecture)
